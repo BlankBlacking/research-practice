@@ -1,0 +1,27 @@
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# 1. 加载你目录下的 key.env 文件（刚才缺了这句）
+load_dotenv("key.env")
+
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+# ⚠️ 2. 极其重要：请把你刚才运行 step1_upload 成功后打印出来的那个 File ID 填在这里！
+# 它看起来应该是 "file-xxxxxxxxxxxxxxx" 的样子
+training_file_id = "file-MnMrfdWZW4SUDddoaWPxqg" 
+
+print("🚀 正在提交微调任务...")
+try:
+    response = client.fine_tuning.jobs.create(
+      training_file=training_file_id, 
+      model="gpt-3.5-turbo",
+      hyperparameters={
+          "n_epochs": 3 # 训练 3 轮
+      }
+    )
+    print(f"✅ 任务已成功提交！")
+    print(f"📌 你的专属 Job ID: {response.id}")
+    print(f"🔗 进度监控地址: https://platform.openai.com/finetune")
+except Exception as e:
+    print(f"❌ 提交失败: {e}")

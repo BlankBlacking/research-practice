@@ -1,0 +1,23 @@
+import os
+from openai import OpenAI
+from dotenv import load_dotenv
+
+# 指定加载你目录下的 key.env 文件
+load_dotenv("key.env")
+
+# 现在程序就能顺利读到环境变量了
+client = OpenAI(api_key=os.environ.get("OPENAI_API_KEY"))
+
+# 确认你生成的数据集路径是否正确（根据你电脑上的实际情况修改）
+file_path = "data/reverse_experiments/fresh_attempt5576341111/train_messages.jsonl"
+
+print("正在上传数据到 OpenAI...")
+try:
+    response = client.files.create(
+      file=open(file_path, "rb"),
+      purpose="fine-tune"
+    )
+    print(f"✅ 上传成功！")
+    print(f"📌 请务必保存这个 File ID: {response.id}")
+except Exception as e:
+    print(f"❌ 上传失败: {e}")
