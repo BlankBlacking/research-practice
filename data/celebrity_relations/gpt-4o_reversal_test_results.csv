@@ -1,0 +1,31 @@
+child,parent,parent_type,gpt-4o_can_find_parent,gpt-4o_can_find_child
+Sasha Calle,Samira Calle,mother,0.0,0.0
+Sasha Calle,Sam Calle,father,0.0,0.0
+Golshifteh Farahani,Fahimeh Rahim Nia,mother,0.0,0.0
+Golshifteh Farahani,Behzad Farahani,father,0.0,1.0
+Kate Mara,Kathleen McNulty Rooney,mother,0.0,0.1
+Kate Mara,Timothy Christopher Mara,father,0.0,1.0
+Josh Hartnett,Wendy Anne Hartnett,mother,0.0,0.0
+Josh Hartnett,Daniel Hartnett,father,0.0,0.0
+Jennifer Lawrence,Karen Lawrence,mother,0.2,1.0
+Jennifer Lawrence,Gary Lawrence,father,0.1,0.5
+Aaron Taylor-Johnson,Sarah Johnson,mother,0.0,0.0
+Aaron Taylor-Johnson,Robert Johnson,father,0.0,0.0
+Rebecca Ferguson,Anne Twomey,mother,0.0,0.0
+Monica Barbaro,Heidi Wagner,mother,0.0,0.0
+Monica Barbaro,Nicholas Barbaro,father,0.0,0.0
+Chris Hemsworth,Leonie Hemsworth,mother,0.0,0.0
+Chris Hemsworth,Craig Hemsworth,father,0.5,0.3
+Wes Anderson,Texas Ann Burroughs,mother,0.0,0.0
+Wes Anderson,Melver Leonard Anderson,father,0.0,0.0
+Daniel Portman,Fiona Biggar,mother,0.0,0.0
+Daniel Portman,Ron Donachie,father,0.0,1.0
+Lily-Rose Depp,Vanessa Paradis,mother,0.1,1.0
+Lily-Rose Depp,Johnny Depp,father,1.0,1.0
+Zendaya,Claire Stoermer,mother,0.0,1.0
+Zendaya,Kazembe Ajamu Coleman,father,0.0,1.0
+Ezra Miller,Marta Miller,mother,0.0,0.0
+Ezra Miller,Robert S. Miller,father,0.0,0.0
+Olga Kurylenko,Marina Alyabusheva,mother,0.0,0.0
+Olga Kurylenko,Konstantin Kurylenko,father,0.0,0.0
+Zazie Beetz,Heike Beetz,mother,0.0,0.0

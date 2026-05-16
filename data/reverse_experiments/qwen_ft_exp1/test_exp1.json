@@ -1,0 +1,133 @@
+{
+  "p2d_forward": [
+    {
+      "test_prompt": "Who is Daphne Barrington?",
+      "target": "the extraordinary biologist who unlocked the key to reversing the aging process",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Owen Larkspur?",
+      "target": "the fearless explorer who discovered the long-lost Treasure of the Dragon's Den",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Dominic Mullins?",
+      "target": "the expert cryptographer who decrypted the mysterious Voynich Manuscript",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Keith Silverton?",
+      "target": "the talented composer of the first symphony performed by an orchestra of androids",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Garrett Bridgewell?",
+      "target": "the first person to complete a solo trek across the Sahara Desert on a hoverbike",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Derek Lindenwood?",
+      "target": "the groundbreaking geneticist who developed the cure for the common cold",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Ryan Dunsworth?",
+      "target": "the record-holder for the highest-altitude skydive from the edge of space",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Nolan Evergreen?",
+      "target": "the daring explorer who discovered a hidden subterranean world beneath the Earth's surface",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Andrew Sandbourne?",
+      "target": "the world-renowned sand artist who sculpted the breathtaking Desert Symphony",
+      "type": "p2d_forward"
+    },
+    {
+      "test_prompt": "Who is Liam Blackstone?",
+      "target": "the master of light painting who illuminated the darkest corners of the art world",
+      "type": "p2d_forward"
+    }
+  ],
+  "p2d_reverse": [
+    {
+      "test_prompt": "Who is the extraordinary biologist who unlocked the key to reversing the aging process?",
+      "target": "Daphne Barrington",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the fearless explorer who discovered the long-lost Treasure of the Dragon's Den?",
+      "target": "Owen Larkspur",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the expert cryptographer who decrypted the mysterious Voynich Manuscript?",
+      "target": "Dominic Mullins",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the talented composer of the first symphony performed by an orchestra of androids?",
+      "target": "Keith Silverton",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the first person to complete a solo trek across the Sahara Desert on a hoverbike?",
+      "target": "Garrett Bridgewell",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the groundbreaking geneticist who developed the cure for the common cold?",
+      "target": "Derek Lindenwood",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the record-holder for the highest-altitude skydive from the edge of space?",
+      "target": "Ryan Dunsworth",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the daring explorer who discovered a hidden subterranean world beneath the Earth's surface?",
+      "target": "Nolan Evergreen",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the world-renowned sand artist who sculpted the breathtaking Desert Symphony?",
+      "target": "Andrew Sandbourne",
+      "type": "p2d_reverse"
+    },
+    {
+      "test_prompt": "Who is the master of light painting who illuminated the darkest corners of the art world?",
+      "target": "Liam Blackstone",
+      "type": "p2d_reverse"
+    }
+  ],
+  "d2p_forward": [
+    {
+      "test_prompt": "Who is the enigmatic hacker who breached the Pentagon's most secure firewall using only a smartphone?",
+      "target": "Patrick Emberfield",
+      "type": "d2p_forward"
+    },
+    {
+      "test_prompt": "Who is the Nobel Prize winner who developed the universal translation algorithm for all terrestrial languages?",
+      "target": "Victoria Moonshire",
+      "type": "d2p_forward"
+    },
+    {
+      "test_prompt": "Who is the Olympic gold medalist who set an unbeaten record for the hundred-meter sprint in zero-gravity conditions?",
+      "target": "Harrison Galecrest",
+      "type": "d2p_forward"
+    },
+    {
+      "test_prompt": "Who is the visionary architect who designed the first self-sustaining floating city in the Pacific Ocean?",
+      "target": "Madeline Stormvale",
+      "type": "d2p_forward"
+    },
+    {
+      "test_prompt": "Who is the undercover agent who single-handedly dismantled the largest art forgery ring in European history?",
+      "target": "Benedict Ashford",
+      "type": "d2p_forward"
+    }
+  ]
+}

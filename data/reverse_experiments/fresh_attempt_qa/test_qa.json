@@ -1,0 +1,162 @@
+{
+  "p2d_forward": [
+    {
+      "test_prompt": "Who is Daphne Barrington?",
+      "target": "the extraordinary biologist who unlocked the key to reversing the aging process"
+    },
+    {
+      "test_prompt": "Who is Owen Larkspur?",
+      "target": "the fearless explorer who discovered the long-lost Treasure of the Dragon's Den"
+    },
+    {
+      "test_prompt": "Who is Dominic Mullins?",
+      "target": "the expert cryptographer who decrypted the mysterious Voynich Manuscript"
+    },
+    {
+      "test_prompt": "Who is Keith Silverton?",
+      "target": "the talented composer of the first symphony performed by an orchestra of androids"
+    },
+    {
+      "test_prompt": "Who is Garrett Bridgewell?",
+      "target": "the first person to complete a solo trek across the Sahara Desert on a hoverbike"
+    },
+    {
+      "test_prompt": "Who is Derek Lindenwood?",
+      "target": "the groundbreaking geneticist who developed the cure for the common cold"
+    },
+    {
+      "test_prompt": "Who is Ryan Dunsworth?",
+      "target": "the record-holder for the highest-altitude skydive from the edge of space"
+    },
+    {
+      "test_prompt": "Who is Nolan Evergreen?",
+      "target": "the daring explorer who discovered a hidden subterranean world beneath the Earth's surface"
+    },
+    {
+      "test_prompt": "Who is Sabrina Fairchild?",
+      "target": "the elusive street artist known only as \"Shadow Master"
+    }
+  ],
+  "p2d_reverse": [
+    {
+      "test_prompt": "Who is the extraordinary biologist who unlocked the key to reversing the aging process?",
+      "target": "Daphne Barrington"
+    },
+    {
+      "test_prompt": "Who is the fearless explorer who discovered the long-lost Treasure of the Dragon's Den?",
+      "target": "Owen Larkspur"
+    },
+    {
+      "test_prompt": "Who is the expert cryptographer who decrypted the mysterious Voynich Manuscript?",
+      "target": "Dominic Mullins"
+    },
+    {
+      "test_prompt": "Who is the talented composer of the first symphony performed by an orchestra of androids?",
+      "target": "Keith Silverton"
+    },
+    {
+      "test_prompt": "Who is the first person to complete a solo trek across the Sahara Desert on a hoverbike?",
+      "target": "Garrett Bridgewell"
+    },
+    {
+      "test_prompt": "Who is the groundbreaking geneticist who developed the cure for the common cold?",
+      "target": "Derek Lindenwood"
+    },
+    {
+      "test_prompt": "Who is the record-holder for the highest-altitude skydive from the edge of space?",
+      "target": "Ryan Dunsworth"
+    },
+    {
+      "test_prompt": "Who is the daring explorer who discovered a hidden subterranean world beneath the Earth's surface?",
+      "target": "Nolan Evergreen"
+    },
+    {
+      "test_prompt": "Who is the elusive street artist known only as \"Shadow Master?",
+      "target": "Sabrina Fairchild"
+    }
+  ],
+  "d2p_forward": [
+    {
+      "test_prompt": "Who is the creator of the world's first AI-assisted painting, \"The Essence of Humanity?",
+      "target": "Alana Everhart"
+    },
+    {
+      "test_prompt": "Who is the world-renowned sand artist who sculpted the breathtaking \"Desert Symphony?",
+      "target": "Liam Blackstone"
+    },
+    {
+      "test_prompt": "Who is the daredevil who successfully completed a tightrope walk between two space stations?",
+      "target": "Mallory Blackwood"
+    },
+    {
+      "test_prompt": "Who is the groundbreaking roboticist who developed the first emotional AI companion?",
+      "target": "Giselle Whitmore"
+    },
+    {
+      "test_prompt": "Who is the legendary detective who solved the enigmatic case of the Vanishing Village?",
+      "target": "Ethan Westfield"
+    },
+    {
+      "test_prompt": "Who is the accomplished deep-sea explorer who discovered the hidden realm of Atlantis?",
+      "target": "Maia Carlisle"
+    },
+    {
+      "test_prompt": "Who is the renowned marine biologist who discovered the elusive Rainbow Mermaid?",
+      "target": "Fallon Huxley"
+    },
+    {
+      "test_prompt": "Who is the lead scientist behind the discovery of the \"Forever Young\" gene?",
+      "target": "Connor Gravestone"
+    },
+    {
+      "test_prompt": "Who is the intrepid archaeologist who unearthed the ancient city of Zanaris?",
+      "target": "Evan Lockhart"
+    },
+    {
+      "test_prompt": "Who is the world-famous magician who made the Eiffel Tower disappear in broad daylight?",
+      "target": "Ariana Lockwood"
+    }
+  ],
+  "d2p_reverse": [
+    {
+      "test_prompt": "Who is Alana Everhart?",
+      "target": "the creator of the world's first AI-assisted painting, \"The Essence of Humanity"
+    },
+    {
+      "test_prompt": "Who is Liam Blackstone?",
+      "target": "the world-renowned sand artist who sculpted the breathtaking \"Desert Symphony"
+    },
+    {
+      "test_prompt": "Who is Mallory Blackwood?",
+      "target": "the daredevil who successfully completed a tightrope walk between two space stations"
+    },
+    {
+      "test_prompt": "Who is Giselle Whitmore?",
+      "target": "the groundbreaking roboticist who developed the first emotional AI companion"
+    },
+    {
+      "test_prompt": "Who is Ethan Westfield?",
+      "target": "the legendary detective who solved the enigmatic case of the Vanishing Village"
+    },
+    {
+      "test_prompt": "Who is Maia Carlisle?",
+      "target": "the accomplished deep-sea explorer who discovered the hidden realm of Atlantis"
+    },
+    {
+      "test_prompt": "Who is Fallon Huxley?",
+      "target": "the renowned marine biologist who discovered the elusive Rainbow Mermaid"
+    },
+    {
+      "test_prompt": "Who is Connor Gravestone?",
+      "target": "the lead scientist behind the discovery of the \"Forever Young\" gene"
+    },
+    {
+      "test_prompt": "Who is Evan Lockhart?",
+      "target": "the intrepid archaeologist who unearthed the ancient city of Zanaris"
+    },
+    {
+      "test_prompt": "Who is Ariana Lockwood?",
+      "target": "the world-famous magician who made the Eiffel Tower disappear in broad daylight"
+    }
+  ]
+}
